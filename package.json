@@ -1,0 +1,39 @@
+{
+  "name": "fpdf-examples-ts",
+  "version": "1.0.0",
+  "description": "Test of a use of the fpdf library in node with typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xtuser777/node-fpdf-examples-ts.git"
+  },
+  "keywords": [
+    "node",
+    "fpdf",
+    "pdf",
+    "typescript"
+  ],
+  "author": "Lucas Oliveira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xtuser777/node-fpdf-examples-ts/issues"
+  },
+  "homepage": "https://github.com/xtuser777/node-fpdf-examples-ts#readme",
+  "dependencies": {
+    "node-fpdf": "^1.0.43"
+  },
+  "devDependencies": {
+      "@types/node": "^16.11.10",
+      "@typescript-eslint/eslint-plugin": "^5.42.0",
+      "@typescript-eslint/parser": "^5.42.0",
+      "eslint": "^8.26.0",
+      "eslint-config-prettier": "^8.5.0",
+      "eslint-plugin-prettier": "^4.2.1",
+      "ts-loader": "^9.4.1",
+      "ts-node": "10.7.0",
+      "typescript": "4.5.2"
+   }
+}
