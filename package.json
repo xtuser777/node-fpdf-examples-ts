@@ -23,17 +23,18 @@
   },
   "homepage": "https://github.com/xtuser777/node-fpdf-examples-ts#readme",
   "dependencies": {
+    "fpdfjs": "^0.1.11",
     "node-fpdf": "^1.0.43"
   },
   "devDependencies": {
-      "@types/node": "^16.11.10",
-      "@typescript-eslint/eslint-plugin": "^5.42.0",
-      "@typescript-eslint/parser": "^5.42.0",
-      "eslint": "^8.26.0",
-      "eslint-config-prettier": "^8.5.0",
-      "eslint-plugin-prettier": "^4.2.1",
-      "ts-loader": "^9.4.1",
-      "ts-node": "10.7.0",
-      "typescript": "4.5.2"
-   }
+    "@types/node": "^16.11.10",
+    "@typescript-eslint/eslint-plugin": "^5.42.0",
+    "@typescript-eslint/parser": "^5.42.0",
+    "eslint": "^8.26.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "ts-loader": "^9.4.1",
+    "ts-node": "10.7.0",
+    "typescript": "4.5.2"
+  }
 }
